@@ -2,9 +2,8 @@
 
 Here are some useful student-facing materials, including prework, our course syllabus, the data science workflow, and a data science vocabulary guide:
 
-- [Data Science Pre-Work](https://docs.google.com/document/d/1xoC18JHk880C9n_cAPCsGn-sNqexPgTIIkmUd7cTJQw/edit?usp=sharing)
-- [Technical Installation Guide](../resources/instructor-resources/tech-guide.md)
+- [Data Science Pre-Work](./DAT_Prework.pdf)
+- [Technical Installation Guide](./DataScienceTechGuide.docx)
 - [Course Syllabus](./ds-syllabus.pdf)
-- [Python Self-Assessment Quiz](./python-self-assessment.md)
 - [Data Science Workflow](./data-science-workflow-final.jpg)
 - [Data Science Vocabulary Guide](./ds-vocab.md)
