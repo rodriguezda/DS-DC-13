@@ -5,5 +5,6 @@ Here are some useful student-facing materials, including prework, our course syl
 - [Data Science Pre-Work](./DAT_Prework.pdf)
 - [Technical Installation Guide](./DataScienceTechGuide.docx)
 - [Course Syllabus](./ds-syllabus.pdf)
+- [Project Timeline](./DS-project-due-dates.pdf)
 - [Data Science Workflow](./data-science-workflow-final.jpg)
 - [Data Science Vocabulary Guide](./ds-vocab.md)
