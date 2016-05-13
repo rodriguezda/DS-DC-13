@@ -19,7 +19,7 @@ Included in this Repository:
 
 
 ## To Get Started
-1. **Students**: Read through our [installation guide](/resources/instructor-resources/tech-guide.md) and [prework](https://gist.github.com/jessicaGA/0c7215de7f75e16f7899) to start learning data science!
+1. **Students**: Read through our [Technical Installation Guide](./resources/student-resources/DataScienceTechGuide.docx) and [Data Science Pre-Work](./resources/student-resources/DAT_Prework.pdf) to start learning data science!
 
 ---
 
