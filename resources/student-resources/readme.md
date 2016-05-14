@@ -3,7 +3,7 @@
 Here are some useful student-facing materials, including prework, our course syllabus, the data science workflow, and a data science vocabulary guide:
 
 - [Data Science Pre-Work](./DAT_Prework.pdf)
-- [Technical Installation Guide](./DataScienceTechGuide.docx)
+- [Technical Installation Guide](./DataScience-TechGuide.pdf)
 - [Course Syllabus](./ds-syllabus.pdf)
 - [Project Timeline](./DS-project-due-dates.pdf)
 - [Data Science Workflow](./data-science-workflow-final.jpg)

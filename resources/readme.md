@@ -6,7 +6,7 @@ In this folder, you'll find a range of useful support materials. Here you'll fin
 ### For Students
 
 - [Data Science Pre-Work](./student-resources/DAT_Prework.pdf)
-- [Technical Installation Guide](./student-resources/DataScienceTechGuide.docx)
+- [Technical Installation Guide](./student-resources/DataScience-TechGuide.pdf)
 - [Course Syllabus](./student-resources/ds-syllabus.pdf)
 - [Project Timeline](./student-resources/DS-project-due-dates.pdf)
 - [Data Science Workflow](./student-resources/data-science-workflow-final.jpg)

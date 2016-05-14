@@ -19,7 +19,7 @@ Included in this Repository:
 
 
 ## To Get Started
-1. **Students**: Read through our [Technical Installation Guide](./resources/student-resources/DataScienceTechGuide.docx) and [Data Science Pre-Work](./resources/student-resources/DAT_Prework.pdf) to start learning data science!
+1. **Students**: Read through our [Technical Installation Guide](./resources/student-resources/DataScience-TechGuide.pdf) and [Data Science Pre-Work](./resources/student-resources/DAT_Prework.pdf) to start learning data science!
 
 ---
 
